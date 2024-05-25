@@ -66,7 +66,36 @@ Execute the script to start downloading files:
 ```sh
 python ftp_download_and_delete.py
 ```
+## For developers.
+**Below is a description of how the script works.**
+
+## Connection Establishment
+The script establishes a secure connection to the FTP/SFTP server based on the configured protocol.
+
+## File Upload
+It retrieves a list of available files from the server and uploads them individually to the local directory specified in the configuration.
+
+## File Deletion
+Following successful uploads, the script removes each file from the server to prevent redundant uploads in the future.
+
+## Logging
+To maintain transparency and facilitate troubleshooting, the script logs various activities, including successful file transfers and encountered errors, in a dedicated log file (ftp_downloader.log).
+
+## Continuous Execution
+Operating in a continuous loop, the script regularly scans the server for new files to upload and manages deletions as required. It adheres to a predetermined interval, configurable within the script's settings, between each scan.
+
+## Main Functions
+The core functionalities are executed through the following functions:
+
+download_and_delete_files_sftp(): Manages file download and deletion via the SFTP protocol.
+download_and_delete_files_ftp(): Oversees file operations over the FTP protocol.
+logging.info(): Records informational messages in the log file.
+logging.error(): Captures error messages for debugging purposes.
+time.sleep(): Introduces delays in script execution, regulating the interval between server scans.
+
+## Feel free to incorporate this script into your workflow for efficient FTP/SFTP file management!
+
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+**This project is licensed under the MIT License - see the LICENSE file for details.**
 
