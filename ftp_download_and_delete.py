@@ -9,15 +9,15 @@ import configparser
 # Load environment variables from .env file
 load_dotenv()
 
-# Set up logging
 logging.basicConfig(filename='ftp_downloader.log', level=logging.INFO,
-                    format='%(asctime)s:%(levelname)s:%(message)s')
+                    format='%(asctime)s:%(levelname)s:%(message)s',
+                    encoding='utf-8')
 
-# Load configuration file
+# Load configuration from config.ini file
 config = configparser.ConfigParser()
 config.read('config.ini')
 
-# FTP/SFTP server and local storage settings from configuration file
+# FTP/SFTP server and local storage settings
 ftp_host = config['FTP']['host']
 ftp_port = int(config['FTP']['port'])
 ftp_user = os.getenv('FTP_USER')

@@ -1,0 +1,80 @@
+2024-05-25 12:26:48,259:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:26:48,262:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:26:48,263:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:26:58,263:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:26:58,263:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:26:58,263:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:27:08,264:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:27:09,287:INFO:Downloaded and deleted IMG_20240525_122657.jpg
+2024-05-25 12:27:09,673:INFO:Downloaded and deleted IMG_20240525_122659.jpg
+2024-05-25 12:27:10,265:INFO:Downloaded and deleted IMG_20240525_122701.jpg
+2024-05-25 12:27:10,661:INFO:Downloaded and deleted IMG_20240525_122703.jpg
+2024-05-25 12:27:10,664:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:27:20,665:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:27:21,082:ERROR:FTP error: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-05-25 12:27:21,082:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:27:31,083:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:27:31,083:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:27:31,083:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:27:41,085:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:27:41,085:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:27:41,085:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:27:51,086:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:27:51,086:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:27:51,086:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:01,087:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:01,087:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:01,087:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:11,089:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:11,089:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:11,089:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:21,091:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:21,091:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:21,091:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:31,092:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:31,092:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:31,092:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:41,093:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:41,093:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:41,093:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:28:51,094:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:28:51,094:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:28:51,094:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:29:01,095:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:29:01,095:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:29:01,095:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:29:11,096:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:29:11,096:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:29:11,096:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:29:21,098:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:29:21,099:ERROR:FTP error: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа
+2024-05-25 12:29:21,099:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:29:34,911:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:29:35,721:INFO:Downloaded and deleted IMG_20240525_122709.jpg
+2024-05-25 12:29:36,177:INFO:Downloaded and deleted IMG_20240525_122711.jpg
+2024-05-25 12:29:37,716:INFO:Downloaded and deleted IMG_20240525_122747.jpg
+2024-05-25 12:29:39,359:INFO:Downloaded and deleted IMG_20240525_122748.jpg
+2024-05-25 12:29:40,818:INFO:Downloaded and deleted IMG_20240525_122749.jpg
+2024-05-25 12:29:42,249:INFO:Downloaded and deleted IMG_20240525_122750.jpg
+2024-05-25 12:29:43,909:INFO:Downloaded and deleted IMG_20240525_122752.jpg
+2024-05-25 12:29:45,455:INFO:Downloaded and deleted IMG_20240525_122753.jpg
+2024-05-25 12:29:47,021:INFO:Downloaded and deleted IMG_20240525_122754.jpg
+2024-05-25 12:29:48,540:INFO:Downloaded and deleted IMG_20240525_122756.jpg
+2024-05-25 12:29:50,172:INFO:Downloaded and deleted IMG_20240525_122757.jpg
+2024-05-25 12:29:51,782:INFO:Downloaded and deleted IMG_20240525_122759.jpg
+2024-05-25 12:29:51,788:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:30:01,789:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:30:01,789:ERROR:FTP error: [WinError 10013] РЎРґРµР»Р°РЅР° РїРѕРїС‹С‚РєР° РґРѕСЃС‚СѓРїР° Рє СЃРѕРєРµС‚Сѓ РјРµС‚РѕРґРѕРј, Р·Р°РїСЂРµС‰РµРЅРЅС‹Рј РїСЂР°РІР°РјРё РґРѕСЃС‚СѓРїР°
+2024-05-25 12:30:01,789:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:30:11,791:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:30:11,791:ERROR:FTP error: [WinError 10013] РЎРґРµР»Р°РЅР° РїРѕРїС‹С‚РєР° РґРѕСЃС‚СѓРїР° Рє СЃРѕРєРµС‚Сѓ РјРµС‚РѕРґРѕРј, Р·Р°РїСЂРµС‰РµРЅРЅС‹Рј РїСЂР°РІР°РјРё РґРѕСЃС‚СѓРїР°
+2024-05-25 12:30:11,791:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:30:21,792:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:30:21,981:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:30:31,983:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:30:32,135:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:30:42,137:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:30:54,348:INFO:Waiting for 10 seconds before next check...
+2024-05-25 12:31:04,349:INFO:Connecting to FTP server: 192.168.1.102 on port 2221
+2024-05-25 12:31:25,383:ERROR:FTP error: [WinError 10060] РџРѕРїС‹С‚РєР° СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРѕРµРґРёРЅРµРЅРёРµ Р±С‹Р»Р° Р±РµР·СѓСЃРїРµС€РЅРѕР№, С‚.Рє. РѕС‚ РґСЂСѓРіРѕРіРѕ РєРѕРјРїСЊСЋС‚РµСЂР° Р·Р° С‚СЂРµР±СѓРµРјРѕРµ РІСЂРµРјСЏ РЅРµ РїРѕР»СѓС‡РµРЅ РЅСѓР¶РЅС‹Р№ РѕС‚РєР»РёРє, РёР»Рё Р±С‹Р»Рѕ СЂР°Р·РѕСЂРІР°РЅРѕ СѓР¶Рµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅРѕРµ СЃРѕРµРґРёРЅРµРЅРёРµ РёР·-Р·Р° РЅРµРІРµСЂРЅРѕРіРѕ РѕС‚РєР»РёРєР° СѓР¶Рµ РїРѕРґРєР»СЋС‡РµРЅРЅРѕРіРѕ РєРѕРјРїСЊСЋС‚РµСЂР°
+2024-05-25 12:31:25,383:INFO:Waiting for 10 seconds before next check...
