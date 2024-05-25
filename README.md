@@ -22,7 +22,7 @@ This project is a Python script designed to automatically download files from an
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/ftp-sftp-file-downloader.git
+   https://github.com/NikkDevelop/FTP-SFTP-File-Downloader.git
    cd ftp-sftp-file-downloader
    ```
 2. **Install Dependencies**:
